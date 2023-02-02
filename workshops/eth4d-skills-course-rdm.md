@@ -2,11 +2,13 @@
 
 Open Research Data - Tools and a workflow for the modern researcher
 
-# Abstract
+# Catalogue Data
 
-Expectations on researchers are increasing. Proposals require data management plans, journals expect data underlying publications to be shared, and the Open Science movement creates pressure to make research reproducible. It can be overwhelming to identify the tools and platforms that are most suitable to satisfy these expectations. In this course, we introduce a set of tools and an opinionated approach commonly used in software development, and increasingly expected to be used in scientific computing. 
+## Abstract
 
-# Objective
+Expectations on researchers are increasing. Proposals require data management plans, journals expect data underlying publications to be shared, and the Open Science movement creates pressure to make research reproducible. It can be overwhelming to identify the tools and platforms that are most suitable to satisfy these expectations. In this course, we introduce a set of tools and an opinionated approach commonly used in software development, and increasingly expected to be used in scientific computing. Applying Open Science principles to research products has the potential to make knowledge more equally accessible, partly by publishing without barriers to access and reuse, but also through the use of open-source and free software. 
+
+## Objective
 
 By the end of this course, students will be able to:
 
@@ -19,7 +21,7 @@ By the end of this course, students will be able to:
 - publish an R data package as a free website using GitHub Pages
 - understand how FAIR data principles apply to published data
 
-# Content
+## Content
 
 This course provides a hands-on opportunity to learn a workflow which uses FAIR data principles to publish data. This workflow uses a set of open source tools and platforms that are accessible to researchers beyond their employment at ETH Zurich. The teaching technique in this course is participatory live coding. Learners are invited to follow along the instructor who writes and narrates code out loud. 
 
@@ -31,11 +33,11 @@ Topics covered are:
 
 This course will introduce a range of tools commonly used in software development. None of these tools will be explained in great detail. The goal is to expose learners to these tools rather than develop a complete understand of the underlying concepts. The course therefore requires an openness to foreign concepts. 
 
-# Lecture notes
+## Lecture notes
 
 A public website is in preparation. 
 
-# Prerequisites / Notice
+## Prerequisites / Notice
 
 While this course does not require experience in any programming language, learners that have previously been exposed to data science tools (R, RStudio IDE, Jupyter Notebooks, Python, VS Code) would benefit most from this course. 
 
@@ -48,6 +50,10 @@ Prior to the course, learners are expected to have:
 - read the following paper: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 - read the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 
-The course instructor will contact the registered participants one week prior to the course to send a reminder about these prerequisites. 
+The course instructor will contact the registered participants two weeks prior to the course to send a reminder about these prerequisites. 
+
+# Performance Assessment
+
+Participants receive 0.5 ECTS for successful participation. This is the equivalent of 15 working hours. The course will be delivered in two modules, each worth 4 hours. The remaining 7 hours will be used for participant preparation prior to the first module and between the first and second module.
 
 
