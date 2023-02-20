@@ -1,0 +1,47 @@
+---
+format: 
+  gfm: default
+  docx: default
+editor: source
+---
+
+
+- **Details**
+    - Date: February 21st, 2023
+- **Participants**
+    - Adina Rom
+    - Patricia Heuberger
+    - Priya Mohanty
+    - Alexandra Hees
+    - Lars Schöbitz
+- **Agenda**
+    1. ETH4D project database
+        - What does the data look like?
+        - What are options for publishing it?
+    2. Data Management Plans
+        - Number of proposals per funding stream
+        - What does a Data Management Plan look like?
+        - What is a draft at submission?
+        - Review capacity
+- **Notes**
+    1. ETH4D project database
+        - What does the data look like?
+        - What are options for publishing it?
+            - Route GitHub -> Zenodo -> DOI -> ETH Research Data collection
+                - Why?
+                    - Accessible CSV
+                    - Zenodo is a general archive 
+                        - more publicity
+                    - Easy DOI to ORCID integration
+                    - CITATION.cff
+                        - Simple capture of author details, if any
+                    - Releases
+                        - Simple to update new releases of data
+                    - GitHub allows for rich public documentation
+            - Other options
+    2. Data Management Plans
+        - Number of proposals per funding stream
+        - What does a Data Management Plan look like?
+            - https://documentation.library.ethz.ch/pages/viewpage.action?pageId=13762611
+        - What is a draft at submission?
+        - Review capacity
