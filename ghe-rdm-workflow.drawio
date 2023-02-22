@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T13:35:04.596Z" agent="5.0 (Macintosh)" etag="qXq3wcyYmVg9BQjZRLVA" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T13:40:02.460Z" agent="5.0 (Macintosh)" etag="F8pNrOFwln52_OKqwWtS" version="20.8.22" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2022" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2JBL8e-sjkAbcdYht8KX-65" value="DOI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=#d5e8d4;sketch=1;labelBackgroundColor=none;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2JBL8e-sjkAbcdYht8KX-65" value="&lt;font color=&quot;#30592D&quot;&gt;DOI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=#d5e8d4;sketch=1;labelBackgroundColor=none;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="362" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-70" style="edgeStyle=none;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=#000080;endArrow=classic;startSize=5;endSize=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2JBL8e-sjkAbcdYht8KX-0" target="2JBL8e-sjkAbcdYht8KX-0">
@@ -285,7 +285,7 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2JBL8e-sjkAbcdYht8KX-100" value="ORCID iD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=none;sketch=1;labelBackgroundColor=none;fontColor=#000080;strokeColor=#000080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2JBL8e-sjkAbcdYht8KX-100" value="&lt;font color=&quot;#30592D&quot;&gt;ORCID iD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=#d5e8d4;sketch=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245.17000000000002" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-102" value="persistent digital identifier" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=none;sketch=1;labelBackgroundColor=none;fontColor=#000080;strokeColor=#000080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -297,7 +297,7 @@
         <mxCell id="2JBL8e-sjkAbcdYht8KX-124" value="required by" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#000080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2JBL8e-sjkAbcdYht8KX-149" value="DOI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=#d5e8d4;sketch=1;labelBackgroundColor=none;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2JBL8e-sjkAbcdYht8KX-149" value="&lt;font color=&quot;#30592D&quot;&gt;DOI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=#d5e8d4;sketch=1;labelBackgroundColor=none;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="737" y="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-150" style="edgeStyle=none;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=#000080;endArrow=classic;startSize=5;endSize=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2JBL8e-sjkAbcdYht8KX-149" target="2JBL8e-sjkAbcdYht8KX-149">
