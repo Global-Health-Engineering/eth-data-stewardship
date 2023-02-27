@@ -1,5 +1,5 @@
 - # ETH4D skills course
-    - The following two proposals were prepared for consideration in a [ETH4D skills course](https://eth4d.ethz.ch/Learning/courses-and-programmes/eth4d-skills-courses.html) in Summer 2023
+    - The following two proposals were prepared for consideration in a [ETH4D skills course](https://github.com/Global-Health-Engineering/eth-data-stewardship/blob/main/workshops/eth4d-skills-course-rdm.md) in HS 2023
 
 - # Proposal 1 [completed proposal](eth4d-skills-cousre-rmd.md)
 
