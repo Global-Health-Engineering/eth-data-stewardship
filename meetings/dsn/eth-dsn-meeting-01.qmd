@@ -1,0 +1,60 @@
+---
+title: "Untitled"
+format: 
+  revealjs: default
+editor: source
+---
+
+## My role
+
+**Open Science Specialist**
+
+- day to day support in data management
+- teaching 
+- proposal writing 
+
+## Data at GHE
+
+- small (few MBs) 
+- tabular 
+- non-sensitive
+- rarely personal data
+
+## Current status
+
+- MS Word supplemental data
+
+# RDM Workflow
+
+## {background-image="img/ghe-rdm-workflow-01.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-02.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-03.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-04.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-05.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-06.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-07.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-08.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-09.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-10.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-11.drawio.svg" background-size="1400px"}
+
+## {background-image="img/ghe-rdm-workflow-12.drawio.svg" background-size="1400px"}
+
+# Publisher policies 
+
+##
+
+# ETH Open Research Data program
+
+## 
+
