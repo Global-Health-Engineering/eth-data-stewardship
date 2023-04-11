@@ -10,13 +10,9 @@ Open Science Tools - authoring and publishing workflows for collaborative scient
 
 # Catalogue Data
 
-## Abstract
+## Abstract (max 400 characters)
 
-Researchers are facing increasing expectations, including the need to provide data management plans for proposals, share data underlying publications, and ensure research results can be reproduced. However, it can be challenging to determine which tools to use to meet these expectations.
-
-This course aims to help researchers navigate these challenges by introducing a workflow that utilizes Git version control, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.
-
-During the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.
+As the expectations of researchers increase, publishing reproducible scientific articles becomes essential. However, choosing tools for these tasks can be difficult. This course aims to guide researchers through these challenges by introducing a workflow that utilizes Git, GitHub, and the Quarto scientific and technical publishing system for collaborative scientific writing.
 
 ## Objective
 
@@ -38,11 +34,15 @@ This course has the following learning objectives
 
 This course offers researchers a hands-on opportunity to learn open source tools and platforms that are accessible beyond institutional employment. The participatory live coding teaching technique involves an instructor writing and narrating code as they teach, and inviting learners to write and execute the same code.
 
-Topics covered include scientific communication, reproducible research (open research, version control, licensing), and collaboration through Git and GitHub.
+Topics covered include:
+
+- Scientific communication.
+- Reproducible research (open research, version control, licensing).
+- Collaboration through Git and GitHub.
+
+During the course, participants will learn how to use the Quarto file format to prepare various scholarly documents, including slides, scientific articles, books, and websites. Additionally, we will demonstrate how GitHub can serve as both a project management tool and a publishing platform using GitHub Pages.
 
 While the course will introduce commonly used tools in software development, they will not be explained in great detail. Instead, the goal is to expose learners to the tools and concepts, requiring openness to new ideas.
-
-Overall, this course provides a practical approach for researchers to learn important tools for scientific communication, reproducibility, and collaboration.
 
 ## Lecture notes
 
@@ -52,15 +52,22 @@ A public website is in preparation.
 
 Prior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.
 
+Prior experience in a programming language is not required for this course, but learners who have worked with data science tools such as R, RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage and gain the most from the material.
+
 Prior to the course, learners are expected to have:
 
--   a laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)
--   a registered account on GitHub (https://github.com/)
--   a registered ORCID iD (https://orcid.org/)
--   read the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+1. A laptop with internet connection and one of Mozilla Firefox, Safari, Google Chrome, Microsoft Edge (just not the Internet Explorer)
+
+2. A registered account on GitHub: https://github.com/
+
+3. A registered ORCID iD: https://orcid.org/
+
+4. A registered account on Zotero: https://www.zotero.org/user/register
+
+5. Read the following paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 
 Two weeks before the course begins, the instructor will contact registered participants to provide a reminder about the prerequisites.
 
 # Performance Assessment
 
-Successful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules.
+Successful participation in this course earns participants 0.5 ECTS, equivalent to 15 working hours. The course consists of two mandatory 4-hour modules, with the remaining 7 hours designated for participant preparation before the first module and between the two modules. Only students that participate in both modules with receive 0.5 ECTS.
