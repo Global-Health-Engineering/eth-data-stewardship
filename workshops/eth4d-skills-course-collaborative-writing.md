@@ -76,11 +76,6 @@ course, but learners who have worked with data science tools such as R,
 RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage
 and gain the most from the material.
 
-Prior experience in a programming language is not required for this
-course, but learners who have worked with data science tools such as R,
-RStudio IDE, Jupyter Notebooks, Python, or VS Code may have an advantage
-and gain the most from the material.
-
 Prior to the course, learners are expected to have:
 
 1.  A laptop with internet connection and one of Mozilla Firefox,
