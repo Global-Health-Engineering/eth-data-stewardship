@@ -7,7 +7,7 @@ editor: source
 
 # Title
 
-Open Research Data - Tools and a workflow for the modern researcher
+Open Research Data - tools and a workflow for the modern researcher
 
 # Catalogue Data
 
