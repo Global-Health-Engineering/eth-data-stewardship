@@ -8,7 +8,7 @@ The following two proposals were prepared for consideration in a ETH4D skills co
     
 ## Proposal 1 - [Open Research Data - tools and a workflow for the modern researcher](https://github.com/Global-Health-Engineering/eth-data-stewardship/blob/main/workshops/eth4d-skills-course-rdm.md)
 
-## Proposal 2 - 
-[Open Science Tools - authoring and publishing workflows for collaborative scientific writing](https://github.com/Global-Health-Engineering/eth-data-stewardship/blob/main/workshops/eth4d-skills-course-collaborative-writing.md)
+## Proposal 2 - [Open Science Tools - authoring and publishing workflows for collaborative scientific writing](https://github.com/Global-Health-Engineering/eth-data-stewardship/blob/main/workshops/eth4d-skills-course-collaborative-writing.md)
+
 
 
