@@ -1,0 +1,63 @@
+
+# Title
+
+Open Science Tools - authoring and publishing workflows for
+collaborative scientific writing
+
+# Responsible Partner
+
+ETH Zurich
+
+# Overview
+
+As the expectations of researchers increase, publishing reproducible
+scientific articles becomes essential. However, choosing tools for these
+tasks can be difficult. This course aims to guide researchers through
+these challenges by introducing a workflow that utilizes Git, GitHub,
+and the Quarto scientific and technical publishing system for
+collaborative scientific writing.
+
+# Learning objectives
+
+1.  Learn to use the Quarto file format and the RStudio IDE visual
+    editing mode to produce scholarly documents with citations,
+    footnotes, cross-references, figures, and tables.
+
+2.  Interact with Git version control and GitHub through the RStudio
+    IDE.
+
+3.  Collaborate with other researchers using the GitHub issue tracker
+    and project management board to organize tasks and streamline
+    communication.
+
+4.  Publish a public website using GitHub Pages to share research with a
+    broader audience.
+
+# Duration
+
+- 4 hours
+
+# Proposed lecturers
+
+- [Lars
+  Schöbitz](https://ghe.ethz.ch/about/people/person-detail.MjkyODc2.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) -
+  [Global Health Engineering - ETH Zurich](https://ghe.ethz.ch/)
+
+# Prerequisites
+
+1.  A laptop with internet connection and one of Mozilla Firefox,
+    Safari, Google Chrome, Microsoft Edge (just not the Internet
+    Explorer)
+2.  A registered account on GitHub: https://github.com/
+3.  A registered ORCID iD: https://orcid.org/
+4.  A registered account on Zotero: https://www.zotero.org/user/register
+
+# Teaching methods
+
+- Participatory live coding, using Posit Cloud infrastructure
+- Pair Programming, using Zoom break-out rooms
+
+# Tools
+
+- Posit Cloud (https://posit.cloud/) Workspace managed by Global Health
+  Engineering group
