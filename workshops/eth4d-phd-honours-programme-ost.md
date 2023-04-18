@@ -1,4 +1,16 @@
 
+# Background
+
+This workshop was designed for an Honours Programme in Sustainable
+Transitions, offered by five European universities ([IDEA
+League](https://idealeague.org/)), [Kwame Nkrumah University of Science
+and Technology in Ghana](https://www.knust.edu.gh/about), [Strathmore
+University in Kenya](https://strathmore.edu/), and the NGO [Green Growth
+Africa](https://thegreengrowth.org/about-us/).
+
+The title of the programme is: AMBITION - Ambassadors for sustainable
+transition
+
 # Title
 
 Open Science Tools - authoring and publishing workflows for
