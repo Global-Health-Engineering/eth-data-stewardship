@@ -1,0 +1,107 @@
+# Projects
+
+# Data Stewardship activities
+
+## Letter of intent: Data Stewardship Pilot at ETH Zurich
+
+This letter of intent was prepare in September 2022 with the following
+documented activities:
+
+The appointment of the GHE chair is between D-MAVT and D-GESS, and we
+are well connected to related research groups and institutes.
+Thematically, we are settled between engineering, economics, and social
+science disciplines. Therefore, we aim to scale our training, support,
+and community-building efforts to the following research groups:
+
+- Energy and Technology Policy Group (D-GESS): https://epg.ethz.ch/
+- Climate Finance and Policy Group (D-GESS): https://cfp.ethz.ch/
+- Development Economics Group (D-GESS): https://dec.ethz.ch/
+- ETH for Development (ETH4D): https://eth4d.ethz.ch/
+
+Beyond ETH Zurich, but within the ETH domain, we have a history of
+employment and collaboration with Eawag, specifically the Department of
+Sanitation, Water and Solid Waste for Development (Sandec).
+Thematically, our research activities and the context within which we
+operate align. It is our goal to engage with groups of this department
+to scale our training, support, and community-building efforts:
+
+https://www.eawag.ch/en/department/sandec/
+
+In FS23, we intend to offer our 4 ECTS course, Research Beyond the Lab:
+Open Science and Research Methods for a Global Engineer, to students of
+other departments (D-BAUG and D-USYS). Continue to connect and engage
+with Open Science and Reproducibility networks at ETH Zurich, within
+Switzerland and internationally:
+
+- https://society-rse.org/
+- https://ropensci.org/
+- https://the-turing-way.netlify.app/welcome.html#our-community
+- https://www.rfordatasci.com/
+- https://forrt.org/
+
+## Activities May 2023
+
+Up until May 2023, the following sub-projects were supported:
+
+### ETH4D
+
+#### RDM Support
+
+This sub-project is about supporting ETH4D in RDM activities. That is
+for:
+
+- Requiring DMP for funded projects
+- Setting up a review process for DMPs
+- Internal RDM activities and open publishing of projects database
+
+**Status**
+
+- Several meetings and emails
+- Currently no interest in requiring DMPs
+- Currently no interest in publishing projects database
+
+#### ETH4D Skills course
+
+Developing a ETH4D skills course focused on PhD Students
+
+**Status**
+
+- Course developed and hosted for the first time HS23
+  - https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=174400&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en
+  - https://ost-hs23.github.io/website/
+
+#### AMBITION programme
+
+Developing a seminar for students part of AMBITION programme:
+https://eth4d.ethz.ch/Learning/ambition—honours-programme.html
+
+https://www.phdambition.org/
+
+**Status**
+
+- Course outline developed and accepted. Will be hosted in 2024.
+
+### HEST Toxicology
+
+A workshop with swiss society of toxicology on an educational workshop
+for young scientists (= phd, postdoc). The broad topic is on ‘publishing
+in toxicology’.
+
+**Status**
+
+- currently discussing potential involvement
+
+### BSF-data
+
+Supporting a research team at in setting up data management and analysis
+processes for a operational black soldier fly experiment at ETH
+Singapore center.
+
+### rbtl-fs24
+
+The course from fs22 will go ahead again in FS24 and we are planning to
+reach 50 students and make it open to more departments. Version of FS22:
+https://rbtl-fs22.github.io/website/
+
+Course will be reworked with more focus on specifically desiging
+surveys, and group work turning into indidividual work.
